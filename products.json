@@ -4,48 +4,48 @@
             "id": "1",
             "title": "product 1",
             "price": "25000",
-            "image": "/img/shoe/image1.JPG"
+            "image": "./img/shoe/image1.JPG"
         },
         {
             "id": "2",
             "title": "product 2",
             "price": "25000",
-            "image": "/img/shoe/image2.JPG"
+            "image": "./img/shoe/image2.JPG"
         },
         {
             "id": "3",
             "title": "product 3",
             "price": "25000",
-            "image": "/img/shoe/image3.JPG"
+            "image": "./img/shoe/image3.JPG"
         },
         {
             "id": "4",
             "title": "product 4",
             "price": "25000",
-            "image": "/img/shoe/image4.JPG"
+            "image": "./img/shoe/image4.JPG"
         },
         {
             "id": "5",
             "title": "product 5",
             "price": "25000",
-            "image": "/img/shoe/image5.JPG"
+            "image": "./img/shoe/image5.JPG"
         },
         {
             "id": "6",
             "title": "product 6",
             "price": "25000",
-            "image": "/img/shoe/image6.JPG"
+            "image": "./img/shoe/image6.JPG"
         },
         {
             "id": "7",
             "title": "product 7",
             "price": "25000",
-            "image": "/img/shoe/image7.JPG"
+            "image": "./img/shoe/image7.JPG"
         },
         {
             "id": "8",
             "title": "product 8",
             "price": "25000",
-            "image": "/img/shoe/image8.JPG"
+            "image": "./img/shoe/image8.JPG"
         }
     ]}

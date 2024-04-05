@@ -126,9 +126,9 @@ class UI {
             <span class="remove-item" data-id=${item.id}>remove</span>
         </div>
         <div>
-            <img src="/img/chevron-up-solid.svg" class="fas fa-chevron-up" data-id=${item.id} alt="">
+            <img src="./img/chevron-up-solid.svg" class="fas fa-chevron-up" data-id=${item.id} alt="">
             <p class="item-amount">${item.amount}</p>
-            <img src="/img/chevron-down-solid.svg" class="fas fa-chevron-down" data-id=${item.id} alt="">
+            <img src="./img/chevron-down-solid.svg" class="fas fa-chevron-down" data-id=${item.id} alt="">
         </div>`;
         cartContent.appendChild(div);
     };
